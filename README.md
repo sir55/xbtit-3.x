@@ -44,13 +44,8 @@ BTITeam http://www.btiteam.eu
 ## <a name="requirements"></a> :white_check_mark: Requirements
 
 - Web server with Apache or Lighttp installed and running
-- PHP 5.5 or higher (If you use php 4, you'll have to rename the phpmailer's folder phpmailer->phpmailer5 and phpmailer4->phpmailer)
-- MySQL 5.6 or higher
-
-## <a name="docs"></a> :book: Documentation
-
-We are working on a wiki which will give information, installation steps, how to, etc ...
-at the moment it is a "work in progress" site: http://wiki.btiteam.eu
+- PHP 7.2 (If you use php 4, you'll have to rename the phpmailer's folder phpmailer->phpmailer5 and phpmailer4->phpmailer)
+- MySQL 5.6 or 5.7
 
 ## <a name="credits"></a> :muscle: Credits
 
@@ -76,8 +71,8 @@ Ripper, cobracrk, JBoy, Liroy, Petr1fied, miskotes, gAndo, Fireworx, Freelancer,
 Thanks to style maker: 
 TreeTopClimber
 
-Founders: Lupin
-Maintainers: Gh0st4unt3r, King Cobra
+Founder: Lupin
+Owner: King Cobra
 
 Many thanks to all guys who participated for the testing and for addons/styles etc.
 
