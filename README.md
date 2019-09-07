@@ -24,7 +24,7 @@ BTITeam http://www.btiteam.eu
 
 - real template system, 99% of the html code is out for the PHP files using bTemplate http://www.massassi.com/bTemplate/
 - rewritten (optimized) announce.php (the PHP tracker)
-- integrated optional xbtt backend by Olaf Van der Spek http://xbtt.sourceforge.net/tracker/
+- integrated optional xbtt backend by Olaf Van der Spek https://github.com/OlafvdSpek/xbt/tracker/
 - support for external mail server using phpmailer http://sourceforge.net/projects/phpmailer
 - rewritten internal forum with subforum support
 - integrated optional smf forum (big thanks to petr1fied) http://www.simplemachines.org/
@@ -58,7 +58,7 @@ We aimed to make a nice user interface and a good admin tool at the same time. S
 - torrenttrader (http://www.torrentrader.org - dead)
 - bytemoonsoon (deadlink)
 - Tbdev: CoLdFuSiOn (http://www.tbdev.net - dead)
-- xbtt: Olaf van der Spek (http://xbtt.sourceforge.net)
+- xbtt: Olaf van der Spek (https://github.com/OlafvdSpek/xbt)
 - phpmailer (http://sourceforge.net/projects/phpmailer)
 - smf (http://www.simplemachines.org/)
 - bTemplate: Brian Lozier (http://www.massassi.com/bTemplate)

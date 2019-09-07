@@ -14,7 +14,7 @@ xbtit has two bittorrent tracker systems - a PHP tracker and xbtt. The PHP track
 
 The tracker is professionally supported for a small fee at http://www.xbtit.com where you will also find private hacks, modifications, and styles
 
-The opensource free support forum is http://www.btiteam.org
+The opensource free support forum is http://www.btiteam.eu
 
 #----------------#
 # MAJOR FEATURES #
@@ -42,8 +42,8 @@ The opensource free support forum is http://www.btiteam.org
 # REQUIREMENTS #
 #--------------#
 - Web server with Apache or Lighttp installed and running
-- PHP 4.3 or higher (If you use php 4, you'll have to rename the phpmailer's folder phpmailer->phpmailer5 and phpmailer4->phpmailer)
-- Mysql 4.1 or higher
+- PHP 7.2 (If you use php 4, you'll have to rename the phpmailer's folder phpmailer->phpmailer5 and phpmailer4->phpmailer)
+- MySQL 5.6 or 5.7
 
 #----------------#
 # DOCUMENTATION  #
@@ -63,7 +63,7 @@ We aimed to make a nice user interface and a good admin tool at the same time. S
 - torrenttrader (http://www.torrentrader.org)
 - bytemoonsoon (deadlink)
 - Tbdev: CoLdFuSiOn (http://www.tbdev.net)
-- xbtt: Olaf van der Spek (http://xbtt.sourceforge.net)
+- xbtt: Olaf van der Spek (https://github.com/OlafvdSpek/xbt)
 - phpmailer (http://sourceforge.net/projects/phpmailer)
 - smf (http://www.simplemachines.org/)
 - bTemplate: Brian Lozier (http://www.massassi.com/bTemplate)
