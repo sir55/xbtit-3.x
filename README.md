@@ -24,7 +24,7 @@ BTITeam http://www.btiteam.eu
 
 - real template system, 99% of the html code is out for the PHP files using bTemplate http://www.massassi.com/bTemplate/
 - rewritten (optimized) announce.php (the PHP tracker)
-- integrated optional xbtt backend by Olaf Van der Spek https://github.com/OlafvdSpek/xbt/tracker/
+- integrated optional xbtt backend by Olaf Van der Spek https://github.com/OlafvdSpek/xbt
 - support for external mail server using phpmailer http://sourceforge.net/projects/phpmailer
 - rewritten internal forum with subforum support
 - integrated optional smf forum (big thanks to petr1fied) http://www.simplemachines.org/
